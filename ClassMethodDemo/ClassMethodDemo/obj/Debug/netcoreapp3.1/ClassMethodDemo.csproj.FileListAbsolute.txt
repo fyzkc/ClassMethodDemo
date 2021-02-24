@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Desktop\UcuncuGun\ClassMethodDemo\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.exe
+C:\Users\LENOVO\Desktop\UcuncuGun\ClassMethodDemo\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.deps.json
+C:\Users\LENOVO\Desktop\UcuncuGun\ClassMethodDemo\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.runtimeconfig.json
+C:\Users\LENOVO\Desktop\UcuncuGun\ClassMethodDemo\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\UcuncuGun\ClassMethodDemo\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.dll
+C:\Users\LENOVO\Desktop\UcuncuGun\ClassMethodDemo\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.pdb
+C:\Users\LENOVO\Desktop\UcuncuGun\ClassMethodDemo\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\UcuncuGun\ClassMethodDemo\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\UcuncuGun\ClassMethodDemo\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\UcuncuGun\ClassMethodDemo\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.dll
+C:\Users\LENOVO\Desktop\UcuncuGun\ClassMethodDemo\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.pdb
